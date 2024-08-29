@@ -1,4 +1,3 @@
-Here's a sample README file for your Flask and MongoDB project:
 
 ---
 
